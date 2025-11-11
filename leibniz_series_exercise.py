@@ -5,3 +5,6 @@ def approximate_pi(n_terms):
     
     approximate_pi = 4 * (1 - series_sum)
     return
+for terms in [1, 10 , 100, 1000, 10000)
+  print(f"{terms}terms:
+{approximate_pi(terms)}")  
